@@ -1,0 +1,1770 @@
+Main Thread Started
+World initialized
+World Thread Started
+Organism Died at java.awt.Point[x=269,y=938]
+Age: 1 Generation: 0
+Tick: 2
+Organism Died at java.awt.Point[x=54,y=132]
+Age: 1 Generation: 0
+Tick: 2
+Organism Died at java.awt.Point[x=15,y=852]
+Age: 10 Generation: 0
+Tick: 11
+Organism Died at java.awt.Point[x=293,y=950]
+Age: 16 Generation: 0
+Tick: 17
+Organism Died at java.awt.Point[x=925,y=278]
+Age: 18 Generation: 0
+Tick: 19
+Organism Died at java.awt.Point[x=562,y=433]
+Age: 22 Generation: 0
+Tick: 23
+Organism Died at java.awt.Point[x=721,y=194]
+Age: 22 Generation: 0
+Tick: 23
+Organism Died at java.awt.Point[x=659,y=759]
+Age: 26 Generation: 0
+Tick: 27
+Organism Died at java.awt.Point[x=59,y=124]
+Age: 31 Generation: 0
+Tick: 32
+Organism Died at java.awt.Point[x=113,y=990]
+Age: 32 Generation: 0
+Tick: 33
+Organism Died at java.awt.Point[x=818,y=14]
+Age: 35 Generation: 0
+Tick: 36
+Organism Died at java.awt.Point[x=10,y=214]
+Age: 38 Generation: 0
+Tick: 39
+Organism Died at java.awt.Point[x=99,y=491]
+Age: 41 Generation: 0
+Tick: 42
+Organism Died at java.awt.Point[x=128,y=913]
+Age: 48 Generation: 0
+Tick: 49
+Organism Died at java.awt.Point[x=290,y=806]
+Age: 57 Generation: 0
+Tick: 58
+Organism Died at java.awt.Point[x=319,y=838]
+Age: 23 Generation: 1
+Tick: 59
+Organism Died at java.awt.Point[x=433,y=889]
+Age: 67 Generation: 0
+Tick: 68
+Organism Died at java.awt.Point[x=976,y=421]
+Age: 67 Generation: 0
+Tick: 68
+Organism Died at java.awt.Point[x=278,y=925]
+Age: 67 Generation: 0
+Tick: 68
+Organism Died at java.awt.Point[x=226,y=664]
+Age: 67 Generation: 0
+Tick: 68
+Organism Died at java.awt.Point[x=161,y=985]
+Age: 67 Generation: 0
+Tick: 68
+Organism Died at java.awt.Point[x=14,y=803]
+Age: 67 Generation: 0
+Tick: 68
+Organism Died at java.awt.Point[x=622,y=889]
+Age: 67 Generation: 0
+Tick: 68
+Organism Died at java.awt.Point[x=308,y=928]
+Age: 68 Generation: 0
+Tick: 69
+Organism Died at java.awt.Point[x=981,y=528]
+Age: 69 Generation: 0
+Tick: 70
+Organism Died at java.awt.Point[x=300,y=651]
+Age: 70 Generation: 0
+Tick: 71
+Organism Died at java.awt.Point[x=618,y=750]
+Age: 71 Generation: 0
+Tick: 72
+Organism Died at java.awt.Point[x=111,y=70]
+Age: 71 Generation: 0
+Tick: 72
+Organism Died at java.awt.Point[x=464,y=436]
+Age: 71 Generation: 0
+Tick: 72
+Organism Died at java.awt.Point[x=387,y=51]
+Age: 72 Generation: 0
+Tick: 73
+Organism Died at java.awt.Point[x=150,y=594]
+Age: 72 Generation: 0
+Tick: 73
+Organism Died at java.awt.Point[x=275,y=689]
+Age: 73 Generation: 0
+Tick: 74
+Organism Died at java.awt.Point[x=590,y=842]
+Age: 74 Generation: 0
+Tick: 75
+Organism Died at java.awt.Point[x=169,y=537]
+Age: 75 Generation: 0
+Tick: 76
+Organism Died at java.awt.Point[x=10,y=985]
+Age: 85 Generation: 0
+Tick: 86
+Organism Died at java.awt.Point[x=901,y=247]
+Age: 78 Generation: 1
+Tick: 89
+Organism Died at java.awt.Point[x=698,y=612]
+Age: 90 Generation: 0
+Tick: 91
+Organism Died at java.awt.Point[x=541,y=976]
+Age: 91 Generation: 0
+Tick: 92
+Organism Died at java.awt.Point[x=990,y=285]
+Age: 95 Generation: 0
+Tick: 96
+Organism Died at java.awt.Point[x=114,y=925]
+Age: 96 Generation: 0
+Tick: 97
+Organism Died at java.awt.Point[x=675,y=53]
+Age: 97 Generation: 0
+Tick: 98
+Organism Died at java.awt.Point[x=922,y=435]
+Age: 97 Generation: 0
+Tick: 98
+Organism Died at java.awt.Point[x=93,y=802]
+Age: 100 Generation: 0
+Tick: 101
+Organism Died at java.awt.Point[x=944,y=116]
+Age: 101 Generation: 0
+Tick: 102
+Organism Died at java.awt.Point[x=419,y=753]
+Age: 102 Generation: 0
+Tick: 103
+Organism Died at java.awt.Point[x=51,y=389]
+Age: 104 Generation: 0
+Tick: 105
+Organism Died at java.awt.Point[x=823,y=900]
+Age: 67 Generation: 1
+Tick: 106
+Organism Died at java.awt.Point[x=264,y=250]
+Age: 111 Generation: 0
+Tick: 112
+Organism Died at java.awt.Point[x=26,y=224]
+Age: 111 Generation: 1
+Tick: 113
+Organism Died at java.awt.Point[x=835,y=10]
+Age: 113 Generation: 0
+Tick: 114
+Organism Died at java.awt.Point[x=487,y=242]
+Age: 115 Generation: 0
+Tick: 116
+Organism Died at java.awt.Point[x=507,y=605]
+Age: 116 Generation: 0
+Tick: 117
+Organism Died at java.awt.Point[x=202,y=368]
+Age: 116 Generation: 0
+Tick: 117
+Organism Died at java.awt.Point[x=575,y=460]
+Age: 117 Generation: 0
+Tick: 118
+Organism Died at java.awt.Point[x=258,y=22]
+Age: 117 Generation: 0
+Tick: 118
+Organism Died at java.awt.Point[x=178,y=400]
+Age: 118 Generation: 0
+Tick: 119
+Organism Died at java.awt.Point[x=729,y=37]
+Age: 119 Generation: 0
+Tick: 120
+Organism Died at java.awt.Point[x=469,y=312]
+Age: 101 Generation: 1
+Tick: 120
+Organism Died at java.awt.Point[x=820,y=436]
+Age: 124 Generation: 0
+Tick: 125
+Organism Died at java.awt.Point[x=572,y=10]
+Age: 128 Generation: 1
+Tick: 130
+Organism Died at java.awt.Point[x=990,y=438]
+Age: 33 Generation: 1
+Tick: 130
+Organism Died at java.awt.Point[x=875,y=413]
+Age: 90 Generation: 1
+Tick: 132
+Organism Died at java.awt.Point[x=10,y=107]
+Age: 73 Generation: 2
+Tick: 132
+Organism Died at java.awt.Point[x=10,y=934]
+Age: 57 Generation: 3
+Tick: 132
+Organism Died at java.awt.Point[x=721,y=484]
+Age: 138 Generation: 0
+Tick: 139
+Organism Died at java.awt.Point[x=860,y=573]
+Age: 139 Generation: 0
+Tick: 140
+Organism Died at java.awt.Point[x=598,y=564]
+Age: 68 Generation: 1
+Tick: 140
+Organism Died at java.awt.Point[x=659,y=899]
+Age: 73 Generation: 1
+Tick: 141
+Organism Died at java.awt.Point[x=878,y=764]
+Age: 141 Generation: 0
+Tick: 142
+Organism Died at java.awt.Point[x=69,y=586]
+Age: 73 Generation: 1
+Tick: 144
+Organism Died at java.awt.Point[x=191,y=922]
+Age: 146 Generation: 0
+Tick: 147
+Organism Died at java.awt.Point[x=347,y=197]
+Age: 30 Generation: 3
+Tick: 148
+Organism Died at java.awt.Point[x=143,y=898]
+Age: 152 Generation: 0
+Tick: 153
+Organism Died at java.awt.Point[x=936,y=593]
+Age: 155 Generation: 0
+Tick: 156
+Organism Died at java.awt.Point[x=14,y=319]
+Age: 158 Generation: 0
+Tick: 159
+Organism Died at java.awt.Point[x=163,y=532]
+Age: 163 Generation: 0
+Tick: 164
+Organism Died at java.awt.Point[x=281,y=239]
+Age: 73 Generation: 2
+Tick: 165
+Organism Died at java.awt.Point[x=302,y=344]
+Age: 168 Generation: 0
+Tick: 169
+Organism Died at java.awt.Point[x=649,y=10]
+Age: 145 Generation: 2
+Tick: 172
+Organism Died at java.awt.Point[x=10,y=225]
+Age: 173 Generation: 0
+Tick: 174
+Organism Died at java.awt.Point[x=570,y=258]
+Age: 178 Generation: 0
+Tick: 179
+Organism Died at java.awt.Point[x=811,y=322]
+Age: 157 Generation: 1
+Tick: 180
+Organism Died at java.awt.Point[x=201,y=260]
+Age: 77 Generation: 1
+Tick: 183
+Organism Died at java.awt.Point[x=778,y=643]
+Age: 113 Generation: 1
+Tick: 185
+Organism Died at java.awt.Point[x=182,y=524]
+Age: 191 Generation: 0
+Tick: 192
+Organism Died at java.awt.Point[x=929,y=964]
+Age: 76 Generation: 4
+Tick: 195
+Organism Died at java.awt.Point[x=50,y=138]
+Age: 195 Generation: 0
+Tick: 196
+Organism Died at java.awt.Point[x=296,y=201]
+Age: 79 Generation: 2
+Tick: 196
+Organism Died at java.awt.Point[x=209,y=791]
+Age: 197 Generation: 0
+Tick: 198
+Organism Died at java.awt.Point[x=275,y=819]
+Age: 198 Generation: 0
+Tick: 199
+Organism Died at java.awt.Point[x=267,y=828]
+Age: 200 Generation: 0
+Tick: 201
+Organism Died at java.awt.Point[x=337,y=413]
+Age: 153 Generation: 2
+Tick: 202
+Organism Died at java.awt.Point[x=415,y=717]
+Age: 202 Generation: 0
+Tick: 203
+Organism Died at java.awt.Point[x=732,y=323]
+Age: 203 Generation: 0
+Tick: 204
+Organism Died at java.awt.Point[x=819,y=919]
+Age: 204 Generation: 0
+Tick: 205
+Organism Died at java.awt.Point[x=896,y=599]
+Age: 205 Generation: 0
+Tick: 206
+Organism Died at java.awt.Point[x=800,y=788]
+Age: 138 Generation: 1
+Tick: 206
+Organism Died at java.awt.Point[x=10,y=851]
+Age: 207 Generation: 0
+Tick: 208
+Organism Died at java.awt.Point[x=990,y=523]
+Age: 90 Generation: 2
+Tick: 208
+Organism Died at java.awt.Point[x=861,y=169]
+Age: 208 Generation: 0
+Tick: 209
+Organism Died at java.awt.Point[x=988,y=589]
+Age: 139 Generation: 2
+Tick: 209
+Organism Died at java.awt.Point[x=372,y=464]
+Age: 213 Generation: 0
+Tick: 214
+Organism Died at java.awt.Point[x=325,y=838]
+Age: 198 Generation: 1
+Tick: 215
+Organism Died at java.awt.Point[x=80,y=663]
+Age: 154 Generation: 1
+Tick: 222
+Organism Died at java.awt.Point[x=101,y=775]
+Age: 82 Generation: 1
+Tick: 226
+Organism Died at java.awt.Point[x=646,y=439]
+Age: 125 Generation: 1
+Tick: 242
+Organism Died at java.awt.Point[x=894,y=407]
+Age: 114 Generation: 2
+Tick: 244
+Organism Died at java.awt.Point[x=451,y=887]
+Age: 158 Generation: 1
+Tick: 249
+Organism Died at java.awt.Point[x=978,y=394]
+Age: 250 Generation: 0
+Tick: 251
+Organism Died at java.awt.Point[x=125,y=792]
+Age: 133 Generation: 1
+Tick: 253
+Organism Died at java.awt.Point[x=472,y=208]
+Age: 254 Generation: 0
+Tick: 255
+Organism Died at java.awt.Point[x=652,y=207]
+Age: 86 Generation: 1
+Tick: 255
+Organism Died at java.awt.Point[x=272,y=244]
+Age: 124 Generation: 1
+Tick: 263
+Organism Died at java.awt.Point[x=232,y=481]
+Age: 264 Generation: 0
+Tick: 265
+Organism Died at java.awt.Point[x=511,y=706]
+Age: 197 Generation: 2
+Tick: 265
+Organism Died at java.awt.Point[x=982,y=425]
+Age: 197 Generation: 1
+Tick: 266
+Organism Died at java.awt.Point[x=442,y=907]
+Age: 278 Generation: 0
+Tick: 279
+Organism Died at java.awt.Point[x=762,y=729]
+Age: 285 Generation: 0
+Tick: 286
+Organism Died at java.awt.Point[x=852,y=410]
+Age: 214 Generation: 1
+Tick: 286
+Organism Died at java.awt.Point[x=401,y=648]
+Age: 160 Generation: 3
+Tick: 292
+Organism Died at java.awt.Point[x=20,y=711]
+Age: 196 Generation: 1
+Tick: 301
+Organism Died at java.awt.Point[x=289,y=459]
+Age: 191 Generation: 1
+Tick: 303
+Organism Died at java.awt.Point[x=385,y=599]
+Age: 306 Generation: 0
+Tick: 307
+Organism Died at java.awt.Point[x=308,y=694]
+Age: 213 Generation: 1
+Tick: 311
+Organism Died at java.awt.Point[x=590,y=66]
+Age: 199 Generation: 1
+Tick: 312
+Organism Died at java.awt.Point[x=470,y=514]
+Age: 194 Generation: 2
+Tick: 326
+Organism Died at java.awt.Point[x=630,y=15]
+Age: 131 Generation: 4
+Tick: 329
+Organism Died at java.awt.Point[x=772,y=119]
+Age: 136 Generation: 4
+Tick: 332
+Organism Died at java.awt.Point[x=922,y=361]
+Age: 332 Generation: 0
+Tick: 333
+Organism Died at java.awt.Point[x=826,y=488]
+Age: 194 Generation: 3
+Tick: 334
+Organism Died at java.awt.Point[x=127,y=621]
+Age: 247 Generation: 1
+Tick: 336
+Organism Died at java.awt.Point[x=384,y=13]
+Age: 336 Generation: 0
+Tick: 337
+Organism Died at java.awt.Point[x=701,y=498]
+Age: 141 Generation: 3
+Tick: 337
+Organism Died at java.awt.Point[x=356,y=380]
+Age: 271 Generation: 1
+Tick: 345
+Organism Died at java.awt.Point[x=372,y=779]
+Age: 164 Generation: 3
+Tick: 356
+Organism Died at java.awt.Point[x=968,y=439]
+Age: 201 Generation: 1
+Tick: 357
+Organism Died at java.awt.Point[x=989,y=795]
+Age: 194 Generation: 1
+Tick: 359
+Organism Died at java.awt.Point[x=345,y=104]
+Age: 101 Generation: 1
+Tick: 364
+Organism Died at java.awt.Point[x=398,y=69]
+Age: 192 Generation: 3
+Tick: 375
+Organism Died at java.awt.Point[x=10,y=915]
+Age: 381 Generation: 0
+Tick: 382
+Organism Died at java.awt.Point[x=742,y=306]
+Age: 273 Generation: 1
+Tick: 389
+Organism Died at java.awt.Point[x=801,y=773]
+Age: 188 Generation: 2
+Tick: 389
+Organism Died at java.awt.Point[x=121,y=637]
+Age: 305 Generation: 1
+Tick: 401
+Organism Died at java.awt.Point[x=439,y=283]
+Age: 191 Generation: 5
+Tick: 406
+Organism Died at java.awt.Point[x=641,y=726]
+Age: 213 Generation: 2
+Tick: 418
+Organism Died at java.awt.Point[x=28,y=217]
+Age: 196 Generation: 3
+Tick: 418
+Organism Died at java.awt.Point[x=66,y=27]
+Age: 216 Generation: 3
+Tick: 424
+Organism Died at java.awt.Point[x=216,y=453]
+Age: 299 Generation: 2
+Tick: 431
+Organism Died at java.awt.Point[x=327,y=152]
+Age: 196 Generation: 3
+Tick: 440
+Organism Died at java.awt.Point[x=982,y=866]
+Age: 218 Generation: 2
+Tick: 473
+Organism Died at java.awt.Point[x=328,y=347]
+Age: 313 Generation: 1
+Tick: 477
+Organism Died at java.awt.Point[x=476,y=214]
+Age: 306 Generation: 1
+Tick: 485
+Organism Died at java.awt.Point[x=898,y=152]
+Age: 396 Generation: 1
+Tick: 494
+Organism Died at java.awt.Point[x=130,y=64]
+Age: 298 Generation: 1
+Tick: 506
+Organism Died at java.awt.Point[x=231,y=132]
+Age: 191 Generation: 3
+Tick: 523
+Organism Died at java.awt.Point[x=592,y=648]
+Age: 387 Generation: 2
+Tick: 527
+Organism Died at java.awt.Point[x=554,y=526]
+Age: 324 Generation: 3
+Tick: 533
+Organism Died at java.awt.Point[x=789,y=681]
+Age: 274 Generation: 2
+Tick: 539
+Organism Died at java.awt.Point[x=551,y=686]
+Age: 414 Generation: 1
+Tick: 544
+Organism Died at java.awt.Point[x=515,y=363]
+Age: 186 Generation: 4
+Tick: 550
+Organism Died at java.awt.Point[x=144,y=909]
+Age: 290 Generation: 2
+Tick: 569
+Organism Died at java.awt.Point[x=614,y=17]
+Age: 270 Generation: 1
+Tick: 577
+Organism Died at java.awt.Point[x=322,y=768]
+Age: 195 Generation: 4
+Tick: 584
+Organism Died at java.awt.Point[x=929,y=521]
+Age: 423 Generation: 1
+Tick: 603
+Organism Died at java.awt.Point[x=140,y=602]
+Age: 186 Generation: 4
+Tick: 604
+Organism Died at java.awt.Point[x=907,y=54]
+Age: 295 Generation: 2
+Tick: 606
+Organism Died at java.awt.Point[x=116,y=705]
+Age: 167 Generation: 1
+Tick: 607
+Organism Died at java.awt.Point[x=157,y=949]
+Age: 187 Generation: 4
+Tick: 611
+Organism Died at java.awt.Point[x=179,y=199]
+Age: 289 Generation: 5
+Tick: 615
+Organism Died at java.awt.Point[x=852,y=473]
+Age: 298 Generation: 2
+Tick: 631
+Organism Died at java.awt.Point[x=292,y=174]
+Age: 649 Generation: 0
+Tick: 650
+Organism Died at java.awt.Point[x=342,y=871]
+Age: 412 Generation: 2
+Tick: 661
+Organism Died at java.awt.Point[x=543,y=16]
+Age: 311 Generation: 2
+Tick: 667
+Organism Died at java.awt.Point[x=925,y=575]
+Age: 417 Generation: 4
+Tick: 668
+Organism Died at java.awt.Point[x=171,y=551]
+Age: 300 Generation: 2
+Tick: 689
+Organism Died at java.awt.Point[x=858,y=279]
+Age: 419 Generation: 1
+Tick: 705
+Organism Died at java.awt.Point[x=464,y=305]
+Age: 195 Generation: 5
+Tick: 739
+Organism Died at java.awt.Point[x=885,y=390]
+Age: 84 Generation: 2
+Tick: 752
+Organism Died at java.awt.Point[x=885,y=941]
+Age: 734 Generation: 1
+Tick: 757
+Organism Died at java.awt.Point[x=407,y=406]
+Age: 284 Generation: 3
+Tick: 761
+Organism Died at java.awt.Point[x=294,y=632]
+Age: 798 Generation: 0
+Tick: 799
+Organism Died at java.awt.Point[x=167,y=922]
+Age: 876 Generation: 0
+Tick: 877
+Organism Died at java.awt.Point[x=293,y=968]
+Age: 521 Generation: 2
+Tick: 896
+Organism Died at java.awt.Point[x=667,y=157]
+Age: 727 Generation: 1
+Tick: 912
+Organism Died at java.awt.Point[x=186,y=904]
+Age: 708 Generation: 2
+Tick: 914
+Organism Died at java.awt.Point[x=517,y=605]
+Age: 19 Generation: 1
+Tick: 931
+Organism Died at java.awt.Point[x=715,y=847]
+Age: 810 Generation: 1
+Tick: 969
+Organism Died at java.awt.Point[x=389,y=136]
+Age: 1017 Generation: 0
+Tick: 1018
+Organism Died at java.awt.Point[x=49,y=580]
+Age: 745 Generation: 3
+Tick: 1031
+Organism Died at java.awt.Point[x=536,y=604]
+Age: 884 Generation: 1
+Tick: 1032
+Organism Died at java.awt.Point[x=953,y=264]
+Age: 1075 Generation: 0
+Tick: 1076
+Organism Died at java.awt.Point[x=111,y=370]
+Age: 787 Generation: 2
+Tick: 1146
+Organism Died at java.awt.Point[x=10,y=21]
+Age: 815 Generation: 3
+Tick: 1151
+Organism Died at java.awt.Point[x=588,y=165]
+Age: 962 Generation: 1
+Tick: 1171
+Organism Died at java.awt.Point[x=759,y=260]
+Age: 475 Generation: 1
+Tick: 1214
+Organism Died at java.awt.Point[x=442,y=413]
+Age: 81 Generation: 2
+Tick: 1232
+Organism Died at java.awt.Point[x=821,y=16]
+Age: 812 Generation: 1
+Tick: 1243
+Organism Died at java.awt.Point[x=475,y=610]
+Age: 1438 Generation: 0
+Tick: 1439
+Organism Died at java.awt.Point[x=911,y=719]
+Age: 802 Generation: 2
+Tick: 1771
+Organism Died at java.awt.Point[x=30,y=453]
+Age: 1659 Generation: 1
+Tick: 2309
+Organism Died at java.awt.Point[x=75,y=341]
+Age: 2455 Generation: 1
+Tick: 2556
+Organism Died at java.awt.Point[x=914,y=134]
+Age: 2445 Generation: 2
+Tick: 2592
+Organism Died at java.awt.Point[x=165,y=80]
+Age: 2490 Generation: 1
+Tick: 2615
+Organism Died at java.awt.Point[x=856,y=651]
+Age: 2377 Generation: 2
+Tick: 2632
+Organism Died at java.awt.Point[x=126,y=297]
+Age: 2122 Generation: 2
+Tick: 2728
+Organism Died at java.awt.Point[x=160,y=841]
+Age: 2617 Generation: 1
+Tick: 2731
+Organism Died at java.awt.Point[x=948,y=201]
+Age: 2187 Generation: 2
+Tick: 2771
+Organism Died at java.awt.Point[x=38,y=573]
+Age: 1759 Generation: 1
+Tick: 2791
+Organism Died at java.awt.Point[x=616,y=178]
+Age: 2544 Generation: 4
+Tick: 2809
+Organism Died at java.awt.Point[x=627,y=254]
+Age: 2483 Generation: 1
+Tick: 2889
+Organism Died at java.awt.Point[x=643,y=765]
+Age: 2925 Generation: 0
+Tick: 2926
+Organism Died at java.awt.Point[x=967,y=974]
+Age: 1996 Generation: 2
+Tick: 2927
+Organism Died at java.awt.Point[x=53,y=134]
+Age: 2824 Generation: 2
+Tick: 2977
+Organism Died at java.awt.Point[x=667,y=828]
+Age: 2924 Generation: 1
+Tick: 3000
+Organism Died at java.awt.Point[x=249,y=333]
+Age: 2430 Generation: 2
+Tick: 3007
+Organism Died at java.awt.Point[x=106,y=162]
+Age: 3015 Generation: 0
+Tick: 3016
+Organism Died at java.awt.Point[x=255,y=560]
+Age: 3052 Generation: 0
+Tick: 3053
+Organism Died at java.awt.Point[x=546,y=29]
+Age: 1811 Generation: 2
+Tick: 3054
+Organism Died at java.awt.Point[x=652,y=720]
+Age: 2271 Generation: 3
+Tick: 3070
+Organism Died at java.awt.Point[x=955,y=91]
+Age: 2534 Generation: 2
+Tick: 3073
+Organism Died at java.awt.Point[x=568,y=780]
+Age: 1874 Generation: 3
+Tick: 3106
+Organism Died at java.awt.Point[x=56,y=532]
+Age: 2916 Generation: 2
+Tick: 3130
+Organism Died at java.awt.Point[x=215,y=969]
+Age: 3169 Generation: 1
+Tick: 3227
+Organism Died at java.awt.Point[x=982,y=630]
+Age: 2837 Generation: 5
+Tick: 3255
+Organism Died at java.awt.Point[x=887,y=799]
+Age: 3139 Generation: 2
+Tick: 3281
+Organism Died at java.awt.Point[x=379,y=910]
+Age: 3212 Generation: 3
+Tick: 3407
+Organism Died at java.awt.Point[x=633,y=450]
+Age: 3126 Generation: 2
+Tick: 3427
+Organism Died at java.awt.Point[x=392,y=32]
+Age: 3443 Generation: 1
+Tick: 3511
+Organism Died at java.awt.Point[x=399,y=528]
+Age: 3044 Generation: 1
+Tick: 3517
+Organism Died at java.awt.Point[x=10,y=542]
+Age: 3078 Generation: 2
+Tick: 3685
+Organism Died at java.awt.Point[x=654,y=128]
+Age: 3157 Generation: 3
+Tick: 4071
+Organism Died at java.awt.Point[x=465,y=697]
+Age: 1913 Generation: 2
+Tick: 4545
+Organism Died at java.awt.Point[x=71,y=499]
+Age: 1803 Generation: 3
+Tick: 4729
+Organism Died at java.awt.Point[x=26,y=592]
+Age: 1674 Generation: 4
+Tick: 4747
+Organism Died at java.awt.Point[x=673,y=960]
+Age: 1872 Generation: 3
+Tick: 4849
+Organism Died at java.awt.Point[x=492,y=348]
+Age: 3208 Generation: 2
+Tick: 4979
+Organism Died at java.awt.Point[x=596,y=329]
+Age: 3392 Generation: 1
+Tick: 5984
+Organism Died at java.awt.Point[x=713,y=157]
+Age: 3316 Generation: 4
+Tick: 6107
+Organism Died at java.awt.Point[x=731,y=381]
+Age: 3352 Generation: 2
+Tick: 6368
+Organism Died at java.awt.Point[x=45,y=942]
+Age: 11365 Generation: 2
+Tick: 11702
+Organism Died at java.awt.Point[x=515,y=653]
+Age: 11821 Generation: 0
+Tick: 11822
+Organism Died at java.awt.Point[x=565,y=612]
+Age: 11963 Generation: 4
+Tick: 12104
+Organism Died at java.awt.Point[x=91,y=879]
+Age: 12428 Generation: 4
+Tick: 12762
+Organism Died at java.awt.Point[x=294,y=384]
+Age: 12983 Generation: 3
+Tick: 13086
+Organism Died at java.awt.Point[x=598,y=276]
+Age: 12885 Generation: 3
+Tick: 13197
+Organism Died at java.awt.Point[x=119,y=135]
+Age: 13214 Generation: 1
+Tick: 13440
+Organism Died at java.awt.Point[x=434,y=738]
+Age: 12989 Generation: 3
+Tick: 13600
+Organism Died at java.awt.Point[x=484,y=325]
+Age: 13527 Generation: 3
+Tick: 13629
+Organism Died at java.awt.Point[x=746,y=514]
+Age: 13639 Generation: 4
+Tick: 13931
+Organism Died at java.awt.Point[x=697,y=568]
+Age: 13737 Generation: 2
+Tick: 14119
+Organism Died at java.awt.Point[x=738,y=576]
+Age: 14492 Generation: 2
+Tick: 14829
+Organism Died at java.awt.Point[x=409,y=512]
+Age: 15013 Generation: 2
+Tick: 15133
+Organism Died at java.awt.Point[x=317,y=550]
+Age: 15280 Generation: 2
+Tick: 15348
+Organism Died at java.awt.Point[x=205,y=296]
+Age: 15551 Generation: 4
+Tick: 15817
+Organism Died at java.awt.Point[x=713,y=362]
+Age: 16508 Generation: 3
+Tick: 16750
+Organism Died at java.awt.Point[x=35,y=22]
+Age: 16276 Generation: 2
+Tick: 16880
+Organism Died at java.awt.Point[x=656,y=331]
+Age: 16632 Generation: 2
+Tick: 16961
+Organism Died at java.awt.Point[x=799,y=876]
+Age: 16828 Generation: 4
+Tick: 17185
+Organism Died at java.awt.Point[x=82,y=813]
+Age: 16717 Generation: 5
+Tick: 17320
+Organism Died at java.awt.Point[x=95,y=543]
+Age: 17443 Generation: 1
+Tick: 17476
+Organism Died at java.awt.Point[x=99,y=243]
+Age: 17396 Generation: 2
+Tick: 17482
+Organism Died at java.awt.Point[x=788,y=956]
+Age: 17468 Generation: 1
+Tick: 17667
+Organism Died at java.awt.Point[x=913,y=796]
+Age: 17398 Generation: 5
+Tick: 17799
+Organism Died at java.awt.Point[x=786,y=826]
+Age: 17969 Generation: 1
+Tick: 18042
+Organism Died at java.awt.Point[x=823,y=709]
+Age: 17561 Generation: 2
+Tick: 18192
+Organism Died at java.awt.Point[x=743,y=790]
+Age: 18035 Generation: 2
+Tick: 18239
+Organism Died at java.awt.Point[x=576,y=506]
+Age: 18526 Generation: 2
+Tick: 18871
+Organism Died at java.awt.Point[x=10,y=594]
+Age: 18985 Generation: 0
+Tick: 18986
+Organism Died at java.awt.Point[x=650,y=58]
+Age: 19815 Generation: 1
+Tick: 20118
+Organism Died at java.awt.Point[x=372,y=835]
+Age: 20721 Generation: 1
+Tick: 20927
+Organism Died at java.awt.Point[x=654,y=801]
+Age: 20539 Generation: 4
+Tick: 21033
+Organism Died at java.awt.Point[x=978,y=509]
+Age: 21257 Generation: 0
+Tick: 21258
+Organism Died at java.awt.Point[x=369,y=585]
+Age: 21280 Generation: 2
+Tick: 21454
+Organism Died at java.awt.Point[x=232,y=584]
+Age: 21491 Generation: 1
+Tick: 21559
+Organism Died at java.awt.Point[x=516,y=616]
+Age: 21979 Generation: 2
+Tick: 22529
+Organism Died at java.awt.Point[x=721,y=832]
+Age: 22227 Generation: 3
+Tick: 22888
+Organism Died at java.awt.Point[x=576,y=48]
+Age: 21846 Generation: 3
+Tick: 23285
+Organism Died at java.awt.Point[x=280,y=499]
+Age: 23702 Generation: 3
+Tick: 26011
+Organism Died at java.awt.Point[x=819,y=152]
+Age: 25222 Generation: 2
+Tick: 26253
+Organism Died at java.awt.Point[x=799,y=891]
+Age: 28240 Generation: 2
+Tick: 28725
+Organism Died at java.awt.Point[x=15,y=631]
+Age: 26210 Generation: 4
+Tick: 30939
+Organism Died at java.awt.Point[x=985,y=10]
+Age: 30632 Generation: 6
+Tick: 31337
+Organism Died at java.awt.Point[x=831,y=54]
+Age: 32636 Generation: 1
+Tick: 32668
+Organism Died at java.awt.Point[x=469,y=742]
+Age: 32676 Generation: 2
+Tick: 33343
+Organism Died at java.awt.Point[x=899,y=546]
+Age: 33257 Generation: 1
+Tick: 33459
+Organism Died at java.awt.Point[x=894,y=105]
+Age: 30224 Generation: 3
+Tick: 33479
+Organism Died at java.awt.Point[x=295,y=45]
+Age: 33708 Generation: 4
+Tick: 34460
+Organism Died at java.awt.Point[x=710,y=60]
+Age: 31950 Generation: 3
+Tick: 35003
+Organism Died at java.awt.Point[x=278,y=130]
+Age: 35013 Generation: 6
+Tick: 35770
+Organism Died at java.awt.Point[x=833,y=268]
+Age: 17751 Generation: 6
+Tick: 35793
+Organism Died at java.awt.Point[x=34,y=420]
+Age: 18410 Generation: 1
+Tick: 36209
+Organism Died at java.awt.Point[x=977,y=934]
+Age: 35563 Generation: 5
+Tick: 36252
+Organism Died at java.awt.Point[x=679,y=201]
+Age: 34059 Generation: 3
+Tick: 37129
+Organism Died at java.awt.Point[x=279,y=226]
+Age: 19939 Generation: 3
+Tick: 38178
+Organism Died at java.awt.Point[x=766,y=877]
+Age: 16726 Generation: 7
+Tick: 38285
+Organism Died at java.awt.Point[x=659,y=644]
+Age: 26021 Generation: 4
+Tick: 40140
+Organism Died at java.awt.Point[x=483,y=727]
+Age: 34136 Generation: 5
+Tick: 40504
+Organism Died at java.awt.Point[x=305,y=747]
+Age: 40414 Generation: 6
+Tick: 41628
+Organism Died at java.awt.Point[x=245,y=460]
+Age: 38548 Generation: 6
+Tick: 41654
+Organism Died at java.awt.Point[x=761,y=451]
+Age: 39474 Generation: 6
+Tick: 42528
+Organism Died at java.awt.Point[x=369,y=228]
+Age: 27081 Generation: 2
+Tick: 44748
+Organism Died at java.awt.Point[x=274,y=197]
+Age: 42178 Generation: 5
+Tick: 45067
+Organism Died at java.awt.Point[x=83,y=451]
+Age: 44981 Generation: 2
+Tick: 45514
+Organism Died at java.awt.Point[x=28,y=782]
+Age: 42469 Generation: 3
+Tick: 45599
+Organism Died at java.awt.Point[x=115,y=284]
+Age: 45122 Generation: 1
+Tick: 45645
+Organism Died at java.awt.Point[x=656,y=222]
+Age: 31303 Generation: 5
+Tick: 46132
+Organism Died at java.awt.Point[x=388,y=253]
+Age: 42757 Generation: 3
+Tick: 47606
+Organism Died at java.awt.Point[x=517,y=289]
+Age: 46679 Generation: 5
+Tick: 47825
+Organism Died at java.awt.Point[x=309,y=530]
+Age: 47059 Generation: 3
+Tick: 48230
+Organism Died at java.awt.Point[x=869,y=584]
+Age: 46053 Generation: 5
+Tick: 48609
+Organism Died at java.awt.Point[x=790,y=189]
+Age: 48010 Generation: 2
+Tick: 48887
+Organism Died at java.awt.Point[x=699,y=929]
+Age: 12913 Generation: 5
+Tick: 49165
+Organism Died at java.awt.Point[x=370,y=603]
+Age: 36129 Generation: 4
+Tick: 49326
+Organism Died at java.awt.Point[x=896,y=384]
+Age: 46806 Generation: 2
+Tick: 49615
+Organism Died at java.awt.Point[x=915,y=466]
+Age: 43763 Generation: 6
+Tick: 49747
+Organism Died at java.awt.Point[x=247,y=835]
+Age: 36082 Generation: 4
+Tick: 50013
+Organism Died at java.awt.Point[x=85,y=406]
+Age: 50201 Generation: 2
+Tick: 51097
+Organism Died at java.awt.Point[x=795,y=733]
+Age: 38599 Generation: 2
+Tick: 51685
+Organism Died at java.awt.Point[x=540,y=420]
+Age: 34879 Generation: 4
+Tick: 51759
+Organism Died at java.awt.Point[x=987,y=285]
+Age: 49099 Generation: 3
+Tick: 52326
+Organism Died at java.awt.Point[x=903,y=131]
+Age: 52178 Generation: 1
+Tick: 52350
+Organism Died at java.awt.Point[x=894,y=264]
+Age: 51883 Generation: 7
+Tick: 54654
+Organism Died at java.awt.Point[x=427,y=532]
+Age: 41319 Generation: 4
+Tick: 54919
+Organism Died at java.awt.Point[x=203,y=327]
+Age: 56367 Generation: 3
+Tick: 57128
+Organism Died at java.awt.Point[x=476,y=230]
+Age: 40398 Generation: 5
+Tick: 57148
+Organism Died at java.awt.Point[x=282,y=678]
+Age: 53162 Generation: 2
+Tick: 57909
+Organism Died at java.awt.Point[x=562,y=416]
+Age: 41359 Generation: 5
+Tick: 58320
+Organism Died at java.awt.Point[x=181,y=660]
+Age: 26156 Generation: 6
+Tick: 59615
+Organism Died at java.awt.Point[x=600,y=920]
+Age: 56354 Generation: 4
+Tick: 59635
+Organism Died at java.awt.Point[x=264,y=14]
+Age: 47439 Generation: 5
+Tick: 60201
+Organism Died at java.awt.Point[x=441,y=64]
+Age: 39856 Generation: 4
+Tick: 61310
+Organism Died at java.awt.Point[x=345,y=438]
+Age: 47953 Generation: 7
+Tick: 61393
+Organism Died at java.awt.Point[x=985,y=453]
+Age: 56620 Generation: 3
+Tick: 61599
+Organism Died at java.awt.Point[x=639,y=305]
+Age: 61749 Generation: 2
+Tick: 62364
+Organism Died at java.awt.Point[x=959,y=918]
+Age: 56618 Generation: 5
+Tick: 62725
+Organism Died at java.awt.Point[x=449,y=557]
+Age: 58196 Generation: 4
+Tick: 62741
+Organism Died at java.awt.Point[x=966,y=617]
+Age: 32052 Generation: 4
+Tick: 62991
+Organism Died at java.awt.Point[x=418,y=490]
+Age: 29828 Generation: 4
+Tick: 63171
+Organism Died at java.awt.Point[x=731,y=554]
+Age: 43183 Generation: 3
+Tick: 64441
+Organism Died at java.awt.Point[x=196,y=980]
+Age: 43327 Generation: 4
+Tick: 65856
+Organism Died at java.awt.Point[x=750,y=535]
+Age: 49761 Generation: 4
+Tick: 67237
+Organism Died at java.awt.Point[x=652,y=784]
+Age: 15852 Generation: 5
+Tick: 68202
+Organism Died at java.awt.Point[x=758,y=495]
+Age: 32451 Generation: 5
+Tick: 68244
+Organism Died at java.awt.Point[x=257,y=466]
+Age: 30203 Generation: 4
+Tick: 68381
+Organism Died at java.awt.Point[x=619,y=985]
+Age: 65577 Generation: 4
+Tick: 68504
+Organism Died at java.awt.Point[x=779,y=217]
+Age: 66188 Generation: 3
+Tick: 68803
+Organism Died at java.awt.Point[x=719,y=132]
+Age: 66373 Generation: 4
+Tick: 69780
+Organism Died at java.awt.Point[x=360,y=195]
+Age: 18925 Generation: 8
+Tick: 70610
+Organism Died at java.awt.Point[x=157,y=29]
+Age: 37625 Generation: 4
+Tick: 71104
+Organism Died at java.awt.Point[x=280,y=259]
+Age: 22944 Generation: 7
+Tick: 71831
+Organism Died at java.awt.Point[x=343,y=717]
+Age: 33656 Generation: 5
+Tick: 71941
+Organism Died at java.awt.Point[x=386,y=817]
+Age: 46672 Generation: 4
+Tick: 72683
+Organism Died at java.awt.Point[x=604,y=453]
+Age: 44352 Generation: 4
+Tick: 73077
+Organism Died at java.awt.Point[x=220,y=293]
+Age: 72391 Generation: 2
+Tick: 73467
+Organism Died at java.awt.Point[x=468,y=619]
+Age: 23550 Generation: 6
+Tick: 73563
+Organism Died at java.awt.Point[x=301,y=537]
+Age: 16472 Generation: 5
+Tick: 73600
+Organism Died at java.awt.Point[x=532,y=480]
+Age: 70588 Generation: 3
+Tick: 74273
+Organism Died at java.awt.Point[x=280,y=732]
+Age: 43217 Generation: 4
+Tick: 74554
+Organism Died at java.awt.Point[x=168,y=73]
+Age: 61062 Generation: 4
+Tick: 74691
+Organism Died at java.awt.Point[x=561,y=321]
+Age: 19783 Generation: 5
+Tick: 74702
+Organism Died at java.awt.Point[x=707,y=698]
+Age: 74907 Generation: 0
+Tick: 74908
+Organism Died at java.awt.Point[x=834,y=641]
+Age: 20474 Generation: 5
+Tick: 75128
+Organism Died at java.awt.Point[x=851,y=512]
+Age: 42601 Generation: 6
+Tick: 75269
+Organism Died at java.awt.Point[x=322,y=300]
+Age: 18473 Generation: 5
+Tick: 75621
+Organism Died at java.awt.Point[x=983,y=190]
+Age: 27040 Generation: 6
+Tick: 75649
+Organism Died at java.awt.Point[x=222,y=16]
+Age: 35836 Generation: 4
+Tick: 75976
+Organism Died at java.awt.Point[x=547,y=485]
+Age: 75224 Generation: 2
+Tick: 76242
+Organism Died at java.awt.Point[x=460,y=574]
+Age: 18635 Generation: 5
+Tick: 76955
+Organism Died at java.awt.Point[x=922,y=556]
+Age: 19930 Generation: 6
+Tick: 77839
+Organism Died at java.awt.Point[x=789,y=813]
+Age: 57164 Generation: 5
+Tick: 78197
+Organism Died at java.awt.Point[x=100,y=596]
+Age: 41544 Generation: 6
+Tick: 78673
+Organism Died at java.awt.Point[x=862,y=388]
+Age: 78475 Generation: 1
+Tick: 78678
+Organism Died at java.awt.Point[x=409,y=360]
+Age: 30696 Generation: 5
+Tick: 78926
+Organism Died at java.awt.Point[x=21,y=47]
+Age: 67527 Generation: 3
+Tick: 79229
+Organism Died at java.awt.Point[x=307,y=13]
+Age: 44893 Generation: 4
+Tick: 79353
+Organism Died at java.awt.Point[x=372,y=306]
+Age: 56982 Generation: 5
+Tick: 80267
+Organism Died at java.awt.Point[x=167,y=410]
+Age: 76835 Generation: 5
+Tick: 80346
+Organism Died at java.awt.Point[x=904,y=887]
+Age: 62939 Generation: 6
+Tick: 80421
+Organism Died at java.awt.Point[x=339,y=195]
+Age: 68406 Generation: 4
+Tick: 80510
+Organism Died at java.awt.Point[x=220,y=342]
+Age: 80436 Generation: 2
+Tick: 80963
+Organism Died at java.awt.Point[x=443,y=319]
+Age: 12325 Generation: 6
+Tick: 81128
+Organism Died at java.awt.Point[x=521,y=487]
+Age: 77522 Generation: 4
+Tick: 81593
+Organism Died at java.awt.Point[x=502,y=550]
+Age: 19647 Generation: 5
+Tick: 82388
+Organism Died at java.awt.Point[x=807,y=436]
+Age: 20925 Generation: 4
+Tick: 82524
+Organism Died at java.awt.Point[x=949,y=71]
+Age: 63846 Generation: 4
+Tick: 82832
+Organism Died at java.awt.Point[x=982,y=111]
+Age: 82826 Generation: 1
+Tick: 82899
+Organism Died at java.awt.Point[x=589,y=77]
+Age: 11565 Generation: 6
+Tick: 83396
+Organism Died at java.awt.Point[x=250,y=121]
+Age: 17563 Generation: 6
+Tick: 83419
+Organism Died at java.awt.Point[x=654,y=838]
+Age: 19106 Generation: 6
+Tick: 83547
+Organism Died at java.awt.Point[x=290,y=860]
+Age: 57318 Generation: 4
+Tick: 83571
+Organism Died at java.awt.Point[x=737,y=403]
+Age: 11061 Generation: 6
+Tick: 83744
+Organism Died at java.awt.Point[x=964,y=432]
+Age: 41613 Generation: 5
+Tick: 84141
+Organism Died at java.awt.Point[x=819,y=413]
+Age: 15646 Generation: 7
+Tick: 84150
+Organism Died at java.awt.Point[x=694,y=778]
+Age: 21310 Generation: 5
+Tick: 84301
+Organism Died at java.awt.Point[x=38,y=538]
+Age: 84538 Generation: 0
+Tick: 84539
+Organism Died at java.awt.Point[x=925,y=654]
+Age: 39578 Generation: 6
+Tick: 85710
+Organism Died at java.awt.Point[x=155,y=950]
+Age: 22627 Generation: 5
+Tick: 85798
+Organism Died at java.awt.Point[x=886,y=736]
+Age: 12250 Generation: 7
+Tick: 85813
+Organism Died at java.awt.Point[x=256,y=540]
+Age: 13913 Generation: 7
+Tick: 85854
+Organism Died at java.awt.Point[x=854,y=814]
+Age: 18139 Generation: 5
+Tick: 86383
+Organism Died at java.awt.Point[x=611,y=691]
+Age: 24264 Generation: 6
+Tick: 86628
+Organism Died at java.awt.Point[x=214,y=30]
+Age: 39078 Generation: 7
+Tick: 86684
+Organism Died at java.awt.Point[x=741,y=970]
+Age: 42755 Generation: 7
+Tick: 88400
+Organism Died at java.awt.Point[x=878,y=648]
+Age: 15584 Generation: 7
+Tick: 89184
+Organism Died at java.awt.Point[x=652,y=451]
+Age: 21230 Generation: 4
+Tick: 89432
+Organism Died at java.awt.Point[x=259,y=397]
+Age: 11725 Generation: 6
+Tick: 90398
+Organism Died at java.awt.Point[x=636,y=710]
+Age: 87025 Generation: 4
+Tick: 90452
+Organism Died at java.awt.Point[x=761,y=861]
+Age: 55050 Generation: 4
+Tick: 90820
+Organism Died at java.awt.Point[x=989,y=918]
+Age: 68022 Generation: 4
+Tick: 90910
+Organism Died at java.awt.Point[x=313,y=183]
+Age: 12001 Generation: 8
+Tick: 90927
+Organism Died at java.awt.Point[x=748,y=125]
+Age: 5853 Generation: 6
+Tick: 91666
+Organism Died at java.awt.Point[x=816,y=147]
+Age: 16335 Generation: 6
+Tick: 92311
+Organism Died at java.awt.Point[x=723,y=364]
+Age: 10029 Generation: 7
+Tick: 92553
+Organism Died at java.awt.Point[x=166,y=234]
+Age: 9077 Generation: 8
+Tick: 92821
+Organism Died at java.awt.Point[x=733,y=479]
+Age: 4837 Generation: 4
+Tick: 93237
+Organism Died at java.awt.Point[x=340,y=974]
+Age: 14632 Generation: 8
+Tick: 93310
+Organism Died at java.awt.Point[x=306,y=362]
+Age: 7622 Generation: 8
+Tick: 93420
+Organism Died at java.awt.Point[x=169,y=178]
+Age: 13169 Generation: 7
+Tick: 93436
+Organism Died at java.awt.Point[x=330,y=915]
+Age: 92877 Generation: 3
+Tick: 93446
+Organism Died at java.awt.Point[x=646,y=624]
+Age: 76228 Generation: 3
+Tick: 93548
+Organism Died at java.awt.Point[x=779,y=55]
+Age: 72637 Generation: 4
+Tick: 93564
+Organism Died at java.awt.Point[x=301,y=770]
+Age: 15214 Generation: 7
+Tick: 94567
+Organism Died at java.awt.Point[x=586,y=270]
+Age: 3688 Generation: 5
+Tick: 94615
+Organism Died at java.awt.Point[x=101,y=303]
+Age: 50049 Generation: 4
+Tick: 94797
+Organism Died at java.awt.Point[x=520,y=345]
+Age: 83063 Generation: 6
+Tick: 94885
+Organism Died at java.awt.Point[x=362,y=218]
+Age: 4648 Generation: 8
+Tick: 95468
+Organism Died at java.awt.Point[x=287,y=519]
+Age: 60802 Generation: 5
+Tick: 95805
+Organism Died at java.awt.Point[x=832,y=198]
+Age: 95652 Generation: 2
+Tick: 96158
+Organism Died at java.awt.Point[x=552,y=130]
+Age: 13862 Generation: 6
+Tick: 96250
+Organism Died at java.awt.Point[x=949,y=572]
+Age: 60586 Generation: 5
+Tick: 96795
+Organism Died at java.awt.Point[x=261,y=786]
+Age: 97644 Generation: 1
+Tick: 97897
+Organism Died at java.awt.Point[x=47,y=868]
+Age: 94574 Generation: 3
+Tick: 98091
+Organism Died at java.awt.Point[x=116,y=770]
+Age: 79363 Generation: 3
+Tick: 98234
+Organism Died at java.awt.Point[x=212,y=34]
+Age: 53733 Generation: 7
+Tick: 98800
+Organism Died at java.awt.Point[x=671,y=840]
+Age: 83586 Generation: 4
+Tick: 101778
+Organism Died at java.awt.Point[x=575,y=905]
+Age: 56344 Generation: 5
+Tick: 101858
+Organism Died at java.awt.Point[x=85,y=234]
+Age: 44817 Generation: 6
+Tick: 107542
+Organism Died at java.awt.Point[x=837,y=186]
+Age: 66579 Generation: 5
+Tick: 108207
+Organism Died at java.awt.Point[x=881,y=557]
+Age: 59777 Generation: 5
+Tick: 110874
+Organism Died at java.awt.Point[x=932,y=410]
+Age: 36973 Generation: 7
+Tick: 111246
+Organism Died at java.awt.Point[x=10,y=669]
+Age: 28995 Generation: 7
+Tick: 112566
+Organism Died at java.awt.Point[x=593,y=17]
+Age: 65284 Generation: 6
+Tick: 113109
+Organism Died at java.awt.Point[x=493,y=918]
+Age: 29469 Generation: 3
+Tick: 113619
+Organism Died at java.awt.Point[x=60,y=957]
+Age: 52515 Generation: 3
+Tick: 113908
+Organism Died at java.awt.Point[x=400,y=939]
+Age: 30365 Generation: 7
+Tick: 113912
+Organism Died at java.awt.Point[x=10,y=590]
+Age: 62666 Generation: 5
+Tick: 114425
+Organism Died at java.awt.Point[x=702,y=111]
+Age: 41709 Generation: 5
+Tick: 115176
+Organism Died at java.awt.Point[x=717,y=216]
+Age: 113993 Generation: 2
+Tick: 116721
+Organism Died at java.awt.Point[x=240,y=849]
+Age: 43940 Generation: 4
+Tick: 120182
+Organism Died at java.awt.Point[x=326,y=787]
+Age: 36441 Generation: 4
+Tick: 120742
+Organism Died at java.awt.Point[x=155,y=405]
+Age: 80520 Generation: 2
+Tick: 121024
+Organism Died at java.awt.Point[x=826,y=84]
+Age: 36260 Generation: 5
+Tick: 121970
+Organism Died at java.awt.Point[x=297,y=334]
+Age: 122467 Generation: 2
+Tick: 125467
+Organism Died at java.awt.Point[x=554,y=227]
+Age: 65314 Generation: 6
+Tick: 125515
+Organism Died at java.awt.Point[x=885,y=646]
+Age: 45943 Generation: 7
+Tick: 126289
+Organism Died at java.awt.Point[x=642,y=943]
+Age: 60807 Generation: 6
+Tick: 129188
+Organism Died at java.awt.Point[x=897,y=618]
+Age: 39131 Generation: 3
+Tick: 129529
+Organism Died at java.awt.Point[x=30,y=661]
+Age: 127014 Generation: 2
+Tick: 130021
+Organism Died at java.awt.Point[x=628,y=142]
+Age: 61431 Generation: 6
+Tick: 131211
+Organism Died at java.awt.Point[x=516,y=465]
+Age: 42239 Generation: 4
+Tick: 131423
+Organism Died at java.awt.Point[x=739,y=240]
+Age: 57456 Generation: 5
+Tick: 132147
+Organism Died at java.awt.Point[x=364,y=957]
+Age: 61287 Generation: 6
+Tick: 134364
+Organism Died at java.awt.Point[x=876,y=541]
+Age: 73666 Generation: 5
+Tick: 134976
+Organism Died at java.awt.Point[x=241,y=616]
+Age: 69195 Generation: 3
+Tick: 136432
+Organism Died at java.awt.Point[x=32,y=149]
+Age: 86892 Generation: 3
+Tick: 136639
+Organism Died at java.awt.Point[x=161,y=964]
+Age: 117058 Generation: 3
+Tick: 137176
+Organism Died at java.awt.Point[x=661,y=819]
+Age: 57245 Generation: 5
+Tick: 138208
+Organism Died at java.awt.Point[x=443,y=211]
+Age: 121050 Generation: 3
+Tick: 138235
+Organism Died at java.awt.Point[x=345,y=900]
+Age: 68238 Generation: 5
+Tick: 138848
+Organism Died at java.awt.Point[x=236,y=300]
+Age: 81020 Generation: 3
+Tick: 140655
+Organism Died at java.awt.Point[x=826,y=585]
+Age: 69564 Generation: 3
+Tick: 140668
+Organism Died at java.awt.Point[x=890,y=174]
+Age: 97069 Generation: 4
+Tick: 142668
+Organism Died at java.awt.Point[x=572,y=494]
+Age: 61188 Generation: 6
+Tick: 144087
+Organism Died at java.awt.Point[x=469,y=654]
+Age: 62206 Generation: 4
+Tick: 145625
+Organism Died at java.awt.Point[x=278,y=117]
+Age: 64925 Generation: 5
+Tick: 146053
+Organism Died at java.awt.Point[x=818,y=595]
+Age: 71998 Generation: 6
+Tick: 146700
+Organism Died at java.awt.Point[x=983,y=678]
+Age: 66729 Generation: 5
+Tick: 147239
+Organism Died at java.awt.Point[x=453,y=63]
+Age: 74179 Generation: 7
+Tick: 149448
+Organism Died at java.awt.Point[x=747,y=617]
+Age: 135744 Generation: 3
+Tick: 150877
+Organism Died at java.awt.Point[x=582,y=503]
+Age: 57762 Generation: 3
+Tick: 151208
+Organism Died at java.awt.Point[x=612,y=588]
+Age: 76669 Generation: 3
+Tick: 151223
+Organism Died at java.awt.Point[x=226,y=309]
+Age: 76705 Generation: 7
+Tick: 151833
+Organism Died at java.awt.Point[x=10,y=69]
+Age: 56253 Generation: 9
+Tick: 152058
+Organism Died at java.awt.Point[x=640,y=164]
+Age: 76630 Generation: 8
+Tick: 152279
+Organism Died at java.awt.Point[x=519,y=302]
+Age: 63090 Generation: 5
+Tick: 153542
+Organism Died at java.awt.Point[x=469,y=389]
+Age: 76691 Generation: 3
+Tick: 154530
+Organism Died at java.awt.Point[x=463,y=184]
+Age: 67937 Generation: 8
+Tick: 154565
+Organism Died at java.awt.Point[x=310,y=403]
+Age: 79131 Generation: 8
+Tick: 154752
+Organism Died at java.awt.Point[x=583,y=10]
+Age: 77243 Generation: 2
+Tick: 155440
+Organism Died at java.awt.Point[x=682,y=10]
+Age: 73883 Generation: 3
+Tick: 155476
+Organism Died at java.awt.Point[x=729,y=502]
+Age: 71397 Generation: 4
+Tick: 155538
+Organism Died at java.awt.Point[x=656,y=689]
+Age: 79498 Generation: 1
+Tick: 158727
+Organism Died at java.awt.Point[x=549,y=387]
+Age: 73975 Generation: 6
+Tick: 159829
+Organism Died at java.awt.Point[x=818,y=836]
+Age: 64350 Generation: 7
+Tick: 160508
+Organism Died at java.awt.Point[x=448,y=624]
+Age: 83558 Generation: 8
+Tick: 160513
+Organism Died at java.awt.Point[x=754,y=706]
+Age: 61759 Generation: 8
+Tick: 160559
+Organism Died at java.awt.Point[x=608,y=968]
+Age: 48478 Generation: 9
+Tick: 161587
+Organism Died at java.awt.Point[x=405,y=342]
+Age: 81265 Generation: 4
+Tick: 161686
+Organism Died at java.awt.Point[x=600,y=608]
+Age: 161516 Generation: 3
+Tick: 164247
+Organism Died at java.awt.Point[x=476,y=687]
+Age: 71631 Generation: 7
+Tick: 164941
+Organism Died at java.awt.Point[x=644,y=122]
+Age: 67668 Generation: 4
+Tick: 165565
+Organism Died at java.awt.Point[x=711,y=892]
+Age: 56947 Generation: 8
+Tick: 167821
+Organism Died at java.awt.Point[x=442,y=249]
+Age: 84054 Generation: 5
+Tick: 168593
+Organism Died at java.awt.Point[x=670,y=719]
+Age: 155615 Generation: 2
+Tick: 170963
+Organism Died at java.awt.Point[x=873,y=793]
+Age: 57545 Generation: 7
+Tick: 171164
+Organism Died at java.awt.Point[x=838,y=469]
+Age: 86184 Generation: 6
+Tick: 172567
+Organism Died at java.awt.Point[x=914,y=48]
+Age: 71524 Generation: 4
+Tick: 173302
+Organism Died at java.awt.Point[x=557,y=391]
+Age: 88374 Generation: 6
+Tick: 177806
+Organism Died at java.awt.Point[x=421,y=596]
+Age: 91624 Generation: 7
+Tick: 178308
+Organism Died at java.awt.Point[x=10,y=269]
+Age: 124899 Generation: 4
+Tick: 184514
+Organism Died at java.awt.Point[x=295,y=631]
+Age: 55585 Generation: 9
+Tick: 185114
+Organism Died at java.awt.Point[x=334,y=416]
+Age: 61343 Generation: 7
+Tick: 186810
+Organism Died at java.awt.Point[x=525,y=662]
+Age: 55735 Generation: 9
+Tick: 186946
+Organism Died at java.awt.Point[x=983,y=288]
+Age: 53078 Generation: 10
+Tick: 189717
+Organism Died at java.awt.Point[x=922,y=358]
+Age: 47126 Generation: 10
+Tick: 189794
+Organism Died at java.awt.Point[x=332,y=687]
+Age: 138033 Generation: 4
+Tick: 190359
+Organism Died at java.awt.Point[x=400,y=10]
+Age: 50565 Generation: 11
+Tick: 191233
+Organism Died at java.awt.Point[x=598,y=161]
+Age: 45973 Generation: 10
+Tick: 191598
+Organism Died at java.awt.Point[x=279,y=165]
+Age: 56647 Generation: 9
+Tick: 191623
+Organism Died at java.awt.Point[x=395,y=241]
+Age: 150934 Generation: 1
+Tick: 192588
+Organism Died at java.awt.Point[x=545,y=414]
+Age: 66588 Generation: 9
+Tick: 192877
+Organism Died at java.awt.Point[x=160,y=976]
+Age: 56631 Generation: 9
+Tick: 194839
+Organism Died at java.awt.Point[x=788,y=337]
+Age: 70568 Generation: 7
+Tick: 196083
+Organism Died at java.awt.Point[x=660,y=104]
+Age: 68730 Generation: 10
+Tick: 198751
+Organism Died at java.awt.Point[x=805,y=880]
+Age: 119678 Generation: 3
+Tick: 202510
+Organism Died at java.awt.Point[x=41,y=686]
+Age: 120264 Generation: 5
+Tick: 203660
+Organism Died at java.awt.Point[x=102,y=562]
+Age: 128759 Generation: 3
+Tick: 203667
+Organism Died at java.awt.Point[x=684,y=718]
+Age: 57277 Generation: 9
+Tick: 203977
+Organism Died at java.awt.Point[x=338,y=316]
+Age: 116328 Generation: 6
+Tick: 207238
+Organism Died at java.awt.Point[x=375,y=796]
+Age: 197016 Generation: 3
+Tick: 212833
+Organism Died at java.awt.Point[x=768,y=71]
+Age: 124202 Generation: 3
+Tick: 217766
+Organism Died at java.awt.Point[x=526,y=619]
+Age: 168913 Generation: 2
+Tick: 218528
+Organism Died at java.awt.Point[x=635,y=547]
+Age: 170010 Generation: 4
+Tick: 219336
+Organism Died at java.awt.Point[x=720,y=751]
+Age: 73694 Generation: 8
+Tick: 224571
+Organism Died at java.awt.Point[x=109,y=727]
+Age: 178709 Generation: 4
+Tick: 227874
+Organism Died at java.awt.Point[x=746,y=901]
+Age: 77287 Generation: 11
+Tick: 237116
+Organism Died at java.awt.Point[x=540,y=685]
+Age: 86772 Generation: 5
+Tick: 239051
+Organism Died at java.awt.Point[x=628,y=10]
+Age: 81624 Generation: 7
+Tick: 240351
+Organism Died at java.awt.Point[x=210,y=569]
+Age: 89258 Generation: 7
+Tick: 242800
+Organism Died at java.awt.Point[x=104,y=940]
+Age: 84959 Generation: 9
+Tick: 255922
+Organism Died at java.awt.Point[x=536,y=966]
+Age: 88044 Generation: 11
+Tick: 261346
+Organism Died at java.awt.Point[x=109,y=95]
+Age: 108320 Generation: 7
+Tick: 262850
+Organism Died at java.awt.Point[x=781,y=400]
+Age: 173051 Generation: 5
+Tick: 266288
+Organism Died at java.awt.Point[x=77,y=551]
+Age: 183077 Generation: 5
+Tick: 276625
+Organism Died at java.awt.Point[x=186,y=179]
+Age: 192172 Generation: 4
+Tick: 283838
+Organism Died at java.awt.Point[x=106,y=977]
+Age: 196680 Generation: 7
+Tick: 290116
+Organism Died at java.awt.Point[x=358,y=139]
+Age: 198098 Generation: 9
+Tick: 292665
+Organism Died at java.awt.Point[x=220,y=142]
+Age: 109685 Generation: 9
+Tick: 299402
+Organism Died at java.awt.Point[x=206,y=386]
+Age: 211274 Generation: 4
+Tick: 303585
+Organism Died at java.awt.Point[x=41,y=479]
+Age: 204852 Generation: 3
+Tick: 306710
+Organism Died at java.awt.Point[x=193,y=63]
+Age: 214175 Generation: 6
+Tick: 306996
+Organism Died at java.awt.Point[x=703,y=54]
+Age: 217183 Generation: 4
+Tick: 315274
+Organism Died at java.awt.Point[x=295,y=298]
+Age: 221749 Generation: 5
+Tick: 317217
+Organism Died at java.awt.Point[x=743,y=636]
+Age: 128503 Generation: 10
+Tick: 320101
+Organism Died at java.awt.Point[x=577,y=456]
+Age: 131177 Generation: 11
+Tick: 321536
+Organism Died at java.awt.Point[x=186,y=882]
+Age: 239156 Generation: 5
+Tick: 331709
+Organism Died at java.awt.Point[x=235,y=790]
+Age: 235889 Generation: 8
+Tick: 352610
+Organism Died at java.awt.Point[x=795,y=716]
+Age: 272865 Generation: 4
+Tick: 366285
+Organism Died at java.awt.Point[x=195,y=705]
+Age: 225892 Generation: 9
+Tick: 373131
+Organism Died at java.awt.Point[x=436,y=898]
+Age: 244329 Generation: 8
+Tick: 373517
+Organism Died at java.awt.Point[x=187,y=758]
+Age: 258960 Generation: 6
+Tick: 390383
+Organism Died at java.awt.Point[x=322,y=401]
+Age: 182998 Generation: 8
+Tick: 395831
+Organism Died at java.awt.Point[x=555,y=470]
+Age: 247197 Generation: 7
+Tick: 396645
+Organism Died at java.awt.Point[x=35,y=391]
+Age: 308036 Generation: 6
+Tick: 404831
+Organism Died at java.awt.Point[x=201,y=217]
+Age: 201231 Generation: 10
+Tick: 420567
+Organism Died at java.awt.Point[x=39,y=664]
+Age: 313076 Generation: 6
+Tick: 420618
+Organism Died at java.awt.Point[x=826,y=284]
+Age: 288172 Generation: 5
+Tick: 427020
+Organism Died at java.awt.Point[x=138,y=516]
+Age: 332781 Generation: 7
+Tick: 431015
+Organism Died at java.awt.Point[x=743,y=265]
+Age: 337541 Generation: 7
+Tick: 432426
+Organism Died at java.awt.Point[x=36,y=365]
+Age: 339048 Generation: 6
+Tick: 433663
+Organism Died at java.awt.Point[x=633,y=58]
+Age: 222861 Generation: 7
+Tick: 447432
+Organism Died at java.awt.Point[x=444,y=19]
+Age: 309193 Generation: 4
+Tick: 455246
+Organism Died at java.awt.Point[x=209,y=654]
+Age: 342182 Generation: 7
+Tick: 462364
+Organism Died at java.awt.Point[x=252,y=41]
+Age: 348391 Generation: 9
+Tick: 463567
+Organism Died at java.awt.Point[x=728,y=45]
+Age: 361294 Generation: 3
+Tick: 469501
+Organism Died at java.awt.Point[x=363,y=541]
+Age: 335223 Generation: 8
+Tick: 475878
+Organism Died at java.awt.Point[x=688,y=348]
+Age: 335087 Generation: 9
+Tick: 486310
+Organism Died at java.awt.Point[x=184,y=586]
+Age: 381837 Generation: 4
+Tick: 503807
+Organism Died at java.awt.Point[x=449,y=112]
+Age: 434709 Generation: 5
+Tick: 530959
+Organism Died at java.awt.Point[x=545,y=549]
+Age: 452265 Generation: 7
+Tick: 566690
+Organism Died at java.awt.Point[x=220,y=896]
+Age: 438739 Generation: 6
+Tick: 570886
+Organism Died at java.awt.Point[x=702,y=49]
+Age: 470536 Generation: 5
+Tick: 591560
+Organism Died at java.awt.Point[x=323,y=240]
+Age: 493593 Generation: 4
+Tick: 614335
+Organism Died at java.awt.Point[x=368,y=883]
+Age: 509403 Generation: 5
+Tick: 643767
+Organism Died at java.awt.Point[x=242,y=162]
+Age: 495504 Generation: 7
+Tick: 646712
+Organism Died at java.awt.Point[x=645,y=954]
+Age: 586598 Generation: 4
+Tick: 681395
+Organism Died at java.awt.Point[x=461,y=524]
+Age: 561810 Generation: 6
+Tick: 698986
+Organism Died at java.awt.Point[x=327,y=647]
+Age: 475029 Generation: 8
+Tick: 702903
+Organism Died at java.awt.Point[x=148,y=497]
+Age: 589449 Generation: 6
+Tick: 703357
